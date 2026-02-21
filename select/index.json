@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラスト・フライデイ・ナイト (T.G.I.F.)",
+  "base_artist": "ケイティ・ペリー",
+  "createdAt": "2026-02-21T22:49:20.794889Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Friday_Night_(T.G.I.F.)_Katy_Perry.txt"
+    }
+  ]
+}
